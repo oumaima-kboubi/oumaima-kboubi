@@ -6,7 +6,7 @@
 
 * I love a new challenge ⚡ and i am always keen to learn and try something new!🤩
 
-* Music, Camping, Scouting and Team Work are the things that i enjoy the most😊
+* Adding to Dark Mode; music, camping, scouting and team work are the things that i enjoy the most😊
 
 ### ✨ I am familiar with
 ![](https://img.shields.io/static/v1?label=&message=Symfony&color=red) ![](https://img.shields.io/static/v1?label=&message=ReactNative&color=orange) ![](https://img.shields.io/static/v1?label=&message=Angular&color=yellow) ![](https://img.shields.io/static/v1?label=&message=NestJS&color=green)  ![](https://img.shields.io/static/v1?label=&message=Java/JEE&color=blue) ![](https://img.shields.io/static/v1?label=&message=Flutter&color=blueviolet)
