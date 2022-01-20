@@ -9,7 +9,7 @@
 * Adding to Dark Mode; music, camping, scouting and team work are the things that i enjoy the most😊
 
 ### ✨ I am familiar with
-![](https://img.shields.io/static/v1?label=&message=Symfony&color=red) ![](https://img.shields.io/static/v1?label=&message=ReactNative&color=orange) ![](https://img.shields.io/static/v1?label=&message=Angular&color=yellow) ![](https://img.shields.io/static/v1?label=&message=NestJS&color=green)  ![](https://img.shields.io/static/v1?label=&message=Java/JEE&color=blue) ![](https://img.shields.io/static/v1?label=&message=Flutter&color=blueviolet)
+![](https://img.shields.io/static/v1?label=&message=Symfony&color=red) ![](https://img.shields.io/static/v1?label=&message=ReactNative&color=orange) ![](https://img.shields.io/static/v1?label=&message=Angular&color=yellow) ![](https://img.shields.io/static/v1?label=&message=NestJS&color=green)  ![](https://img.shields.io/static/v1?label=&message=Java/JEE&color=blue) ![](https://img.shields.io/static/v1?label=&message=Flutter&color=blueviolet) ![](https://img.shields.io/static/v1?label=&message=Python&color=violet)
 
 ### ✨ See you on the other side!
  ☑️[My LinkedIn account](https://www.linkedin.com/in/oumaima-kboubi-63a8a5194/)  ![](https://img.shields.io/badge/-informational?style=flat&logo=LinkedIn&logoColor=white&color=blue)
