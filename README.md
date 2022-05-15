@@ -12,7 +12,7 @@
 
 * Adding to Dark Mode; music, camping, scouting and team work are the things that i enjoy the most😊
  
-* 😄 Favorite Quote: **TThe ma who removes a mountain begins by carrying away small stones - Chinese proverbs**
+* 😄 Favorite Quote: **The man who removes a mountain begins by carrying away small stones - Chinese proverbs**
 
 * 🌱 I’m currently learning Deep Learning, DevOps & AWS Cloud
 
