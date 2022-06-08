@@ -21,7 +21,7 @@
 ![](https://img.shields.io/static/v1?label=&message=Symfony&color=red) ![](https://img.shields.io/static/v1?label=&message=ReactNative&color=orange) ![](https://img.shields.io/static/v1?label=&message=Angular&color=yellow) ![](https://img.shields.io/static/v1?label=&message=NestJS&color=green)  ![](https://img.shields.io/static/v1?label=&message=Java/JEE&color=blue) ![](https://img.shields.io/static/v1?label=&message=Flutter&color=blueviolet) ![](https://img.shields.io/static/v1?label=&message=Python&color=violet)
 
 - 📈 Here are some stats about my activity here on Github<br><br>
-![Count](https://visitor-badge.laobi.icu/badge?page_id=oumaima-kboubi.oumaima-kboubi) [![Github](https://img.shields.io/github/followers/oumaima-kboubi?label=Follow&style=social)](https://github.com/CherifYasmine) 
+![Count](https://visitor-badge.laobi.icu/badge?page_id=oumaima-kboubi.oumaima-kboubi) [![Github](https://img.shields.io/github/followers/oumaima-kboubi?label=Follow&style=social)](https://github.com/oumaima-kboubi) 
 
 <img src="https://activity-graph.herokuapp.com/graph?username=oumaima-kboubi&hide_border=true&theme=dark" style="align=center"/><br><br>
 
